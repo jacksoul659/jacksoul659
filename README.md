@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jacksoul659
+- 👀 I’m interested in hobby
+- 🌱 I’m currently learning C# and WEB3
